@@ -83,9 +83,9 @@ developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvillarios&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Overview]((https://raw.githubusercontent.com/mvillarios/github-stats-transparent/refs/heads/output/generated/overview.svg))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvillarios&layout=compact&theme=tokyonight&hide_border=true)
+![Github Languages](https://raw.githubusercontent.com/mvillarios/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mvillarios&theme=tokyonight&hide_border=true)
 
@@ -96,7 +96,7 @@ developer = {
 ## 🚀 Featured Projects
 
 ### 🔹 [Nombre del Proyecto 1](https://github.com/TU_USUARIO/proyecto1)
-> Descripción breve de qué hace y con qué tecnologías. Ej: API REST construida con FastAPI y PostgreSQL para gestión de inventario.
+> 
 
 ---
 
