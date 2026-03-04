@@ -84,7 +84,6 @@ developer = {
 <div align="center">
 
 ![GitHub Overview](https://raw.githubusercontent.com/mvillarios/github-stats-transparent/refs/heads/output/generated/overview.svg)
-
 ![Github Languages](https://raw.githubusercontent.com/mvillarios/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mvillarios&theme=tokyonight&hide_border=true)
