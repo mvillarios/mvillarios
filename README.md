@@ -19,7 +19,7 @@ developer = {
     "name":        "Miguel Villa rios",
     "location":    "Chile 🇨🇱",
     "role":        "Full Stack Developer",
-    "languages":   ["Python", "TypeScript", "C++"],
+    "languages":   ["Python", "TypeScript", "SQL"],
     "interests":   ["Web Dev", "Data Science"],
     "currently":   "Aprendiendo y mejorando día a día"
 }
@@ -94,11 +94,37 @@ developer = {
 
 ## 🚀 Featured Projects
 
-### 🔹 [Nombre del Proyecto 1](https://github.com/TU_USUARIO/proyecto1)
-> 
+### 🔹 [Teslo Shop API](https://github.com/mvillarios/04-teslo-shop)
+> API REST de e-commerce construida con NestJS y TypeScript. Incluye autenticación JWT, manejo de archivos, WebSockets, documentación con Postman y base de datos PostgreSQL con Docker.
+
+`NestJS` `TypeScript` `PostgreSQL` `Docker` `WebSockets`
+
+### 🔹 [CashTrackr](https://github.com/mvillarios/cashtrackr)
+> Aplicación fullstack para el control de gastos personales. Cuenta con autenticación de usuarios, panel de administración, API REST con arquitectura MVC y testing con Jest. Desplegada en Vercel.
+
+`Express.js` `Next.js` `TypeScript` `Jest` `Vercel`
+
+### 🔹 [DevTree](https://github.com/mvillarios/devtree)
+> Clon de Linktree orientado a desarrolladores. Proyecto fullstack con backend y frontend separados, permite a usuarios crear su perfil con links personalizados.
+
+`TypeScript` `Node.js` `React`
+
+### 🔹 [VizDoom RL Agent](https://github.com/mvillarios/vizdoom)
+> Entrenamiento de un agente de Reinforcement Learning para jugar Doom usando ViZDoom y Stable Baselines3. Incluye múltiples experimentos, análisis estadístico comparativo y visualización de resultados.
+
+`Python` `PyTorch` `Stable Baselines3` `ViZDoom` `RL`
+
+### 🔹 [Data Dashboard](https://github.com/mvillarios/dashboard)
+> Dashboard interactivo de visualización de datos desarrollado en Jupyter Notebook. Análisis exploratorio con gráficos dinámicos a partir de datasets reales.
+
+`Python` `Jupyter Notebook` `Plotly` `Pandas`
+
+### 🔹 [Solo Listas App](https://github.com/mvillarios/solo_listas_app)
+> Aplicación móvil multiplataforma de gestión de listas desarrollada con Flutter y Dart. Compatible con Android, iOS, Web, Linux, macOS y Windows.
+
+`Flutter` `Dart` `Mobile` `Cross-platform`
 
 ---
-
 <div align="center">
 
 ### 👀 Profile Views
